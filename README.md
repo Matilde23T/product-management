@@ -1,4 +1,4 @@
-# product management
+# Product management
 
 ## Presentation
 
@@ -13,10 +13,10 @@ In the operational structure there is the main sales management and tracking of 
 
 - ### Client
 
-customer data with also the payment method
+  customer data with also the payment method
 
 - ### Production process
 
-names of the production processes and description of the object involved
+  names of the production processes and description of the object involved
 
 
